@@ -1,5 +1,5 @@
-import './App.css';
-import image from './assets/images/Henry_1.png';
+import '../App.css';
+import image from '../assets/images/Henry_1.png';
 
 export default function Title(){
     return(

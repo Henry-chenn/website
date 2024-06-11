@@ -1,13 +1,13 @@
-import './App.css';
-import ProjectOne from './assets/images/Pipstop.png';
-import ProjectTwo from './assets/images/Sustainabot.png';
-import ProjectThree from './assets/images/CSJargon.png';
+import '../App.css';
+import ProjectOne from '../assets/images/Pipstop.png';
+import ProjectTwo from '../assets/images/Sustainabot.png';
+import ProjectThree from '../assets/images/CSJargon.png';
 
 
 export default function Projects(){
     return (
         <div className='multiColorBackground'>
-            <div className='Projects'>
+            <div className='Projects' id="Projects">
                 <div className='Project'> 
                     <a href="https://devpost.com/software/pipstop"><img src={ProjectOne} alt="Pipstop" className='Project-Pic'/></a>
                     <h1>PipStop</h1>
