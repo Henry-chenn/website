@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.efd8eed7.css",
-    "main.js": "/static/js/main.16e158fe.js",
-    "static/media/Henry_1.png": "/static/media/Henry_1.63edaac2fa253ffdb16b.png",
-    "static/media/Pioggia.otf": "/static/media/Pioggia.d46bfc3388cab1ef06d9.otf",
-    "static/media/LEMONMILK-Regular.otf": "/static/media/LEMONMILK-Regular.55fc24317b9c2b507dd8.otf",
-    "static/media/Pipstop.png": "/static/media/Pipstop.5b59b2b3ee0d922d39f2.png",
-    "static/media/Sustainabot.png": "/static/media/Sustainabot.1ea909046fdf80ee95ca.png",
-    "static/media/CSJargon.png": "/static/media/CSJargon.b9e68a5cde4adc8f359e.png",
-    "static/media/instagram.svg": "/static/media/instagram.4829165b8aefc9d7b02f8d151537daf2.svg",
-    "static/media/telegram.svg": "/static/media/telegram.e816d837dffeeb756bed253d68ddb5fe.svg",
-    "static/media/mark-github-24.svg": "/static/media/mark-github-24.01cb627de952e375262f14b886281988.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.60b562ef9370dcf5a2447b4b72daeea3.svg",
-    "index.html": "/index.html",
-    "main.efd8eed7.css.map": "/static/css/main.efd8eed7.css.map",
-    "main.16e158fe.js.map": "/static/js/main.16e158fe.js.map"
+    "main.css": "/website/static/css/main.6a17f3f0.css",
+    "main.js": "/website/static/js/main.1e5e495c.js",
+    "static/media/Henry_1.png": "/website/static/media/Henry_1.63edaac2fa253ffdb16b.png",
+    "static/media/Pioggia.otf": "/website/static/media/Pioggia.d46bfc3388cab1ef06d9.otf",
+    "static/media/LEMONMILK-Regular.otf": "/website/static/media/LEMONMILK-Regular.55fc24317b9c2b507dd8.otf",
+    "static/media/Pipstop.png": "/website/static/media/Pipstop.5b59b2b3ee0d922d39f2.png",
+    "static/media/Sustainabot.png": "/website/static/media/Sustainabot.1ea909046fdf80ee95ca.png",
+    "static/media/CSJargon.png": "/website/static/media/CSJargon.b9e68a5cde4adc8f359e.png",
+    "static/media/instagram.svg": "/website/static/media/instagram.4829165b8aefc9d7b02f8d151537daf2.svg",
+    "static/media/telegram.svg": "/website/static/media/telegram.e816d837dffeeb756bed253d68ddb5fe.svg",
+    "static/media/mark-github-24.svg": "/website/static/media/mark-github-24.01cb627de952e375262f14b886281988.svg",
+    "static/media/linkedin.svg": "/website/static/media/linkedin.60b562ef9370dcf5a2447b4b72daeea3.svg",
+    "index.html": "/website/index.html",
+    "main.6a17f3f0.css.map": "/website/static/css/main.6a17f3f0.css.map",
+    "main.1e5e495c.js.map": "/website/static/js/main.1e5e495c.js.map"
   },
   "entrypoints": [
-    "static/css/main.efd8eed7.css",
-    "static/js/main.16e158fe.js"
+    "static/css/main.6a17f3f0.css",
+    "static/js/main.1e5e495c.js"
   ]
 }
