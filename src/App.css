@@ -79,6 +79,20 @@
 .Title h2 {
   font-size: 3em; /* Adjust the font size of the subtitle */
 }
+.subTitle {
+  white-space: nowrap;
+  display: inline-block;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.contacts{
+  width: 4em;
+  height: 4em;
+  border-radius: 50%;
+  margin: 0.5em;
+} 
 
 .profile-img {
   float: right;
